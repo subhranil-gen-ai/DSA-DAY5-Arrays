@@ -19,7 +19,7 @@ Sorting algorithms in Python – Bubble, Insertion, Selection, Built-in, and bon
 - Sorting with constraints and custom logic  
 - Time complexity awareness (O(n²), O(n log n), etc.)
 
-## 🧑‍💻 Author
+# 🧑‍💻 Author
 *Subhranil Dutta*  
 5th Sem CSE | DSA + GenAI Learner  
 🔗 [GitHub Profile](https://github.com/subhranil-gen-ai)
